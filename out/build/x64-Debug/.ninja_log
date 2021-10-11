@@ -1,0 +1,16 @@
+# ninja log v5
+21	505	6556538401398438	CMakeFiles/task01.dir/main.cpp.obj	3eadd34b4deb1387
+35	507	6556538401297165	CMakeFiles/task01.dir/polar.cpp.obj	628e9b86e93a56a5
+28	495	6556538401398438	CMakeFiles/task01.dir/number.cpp.obj	74ffb149da9aa0ae
+517	926	6556538405050001	../bin/task01.exe	4452503dd5d964cc
+2	516	6556538401600988	CMakeFiles/task01.dir/complex.cpp.obj	cb886a4de0565648
+0	23	0	clean	9992afb1f91dc381
+11	466	6556538400891343	CMakeFiles/task01.dir/fraction.cpp.obj	c489b95c06870561
+42	455	6556538400788059	CMakeFiles/task01.dir/container.cpp.obj	f2187df71b12cb46
+16	385	6556538610375189	CMakeFiles/task01.dir/fraction.cpp.obj	c489b95c06870561
+44	406	6556538610476315	CMakeFiles/task01.dir/number.cpp.obj	74ffb149da9aa0ae
+32	431	6556538610883562	CMakeFiles/task01.dir/polar.cpp.obj	628e9b86e93a56a5
+50	453	6556538611087064	CMakeFiles/task01.dir/container.cpp.obj	f2187df71b12cb46
+26	482	6556538611482866	CMakeFiles/task01.dir/main.cpp.obj	3eadd34b4deb1387
+2	517	6556538611798428	CMakeFiles/task01.dir/complex.cpp.obj	cb886a4de0565648
+517	871	6556538614667362	../bin/task01.exe	4452503dd5d964cc

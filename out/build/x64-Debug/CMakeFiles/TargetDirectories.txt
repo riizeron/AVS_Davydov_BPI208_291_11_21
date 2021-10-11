@@ -1,0 +1,3 @@
+C:/Users/Вячеслав/Desktop/дз авс/out/build/x64-Debug/CMakeFiles/task01.dir
+C:/Users/Вячеслав/Desktop/дз авс/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Вячеслав/Desktop/дз авс/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
